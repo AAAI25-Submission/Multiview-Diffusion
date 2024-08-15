@@ -1,16 +1,27 @@
 # Label Efficient and Personalized Arrhythmia Detection via Multiview Diffusion Models
 
 ├── Baselines
+
 │  ├── CMSC
+
 │  ├── EffNet
+
 │  └── Models
+
 ├── Dataset
+
 │  ├── data_ChapmanShaoxing_segments
+
 │  └── data_LTAF_segments
+
 ├── Frequency
+
 ├── Lorenz
+
 ├── Multiview
+
 ├── requirements.txt
+
 └── run.sh
 
 The `Baselines` fold inscludes the pre-training, fine-tuning, and testing code of two baselines EfficientNet and CMSC.
