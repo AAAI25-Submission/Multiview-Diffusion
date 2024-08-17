@@ -28,6 +28,7 @@ sudo apt install git-lfs
 git lfs install
 git clone https://github.com/AAAI25-Submission/Multiview-Diffusion.git
 cd Multiview-Diffusion
+git lfs fetch
 git lfs pull
 ```
 
